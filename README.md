@@ -33,6 +33,10 @@ Dynamic List Handling: Automatically updates the displayed list based on search 
 
 Multiple Search Key :  Search with multiple search keys
 
+## Demo
+
+https://github.com/user-attachments/assets/3a48a4d0-e806-4b2a-95b6-6cd49f9e3ea1
+
 ## Getting started
 
 1. Install the package: Add the following line to your pubspec.yaml file:
@@ -46,7 +50,7 @@ Multiple Search Key :  Search with multiple search keys
 TODO:
 View `/example` folder.
 
-## PlatformButton
+## Searchable Bottom Sheet
 
 ```
 SearchableBottomSheet.show<FruitListModel>(
@@ -67,9 +71,7 @@ SearchableBottomSheet.show<FruitListModel>(
 
 
 
-## Demo
 
-https://github.com/user-attachments/assets/3a48a4d0-e806-4b2a-95b6-6cd49f9e3ea1
 
 ## Benefits
 
