@@ -1,7 +1,7 @@
 name: searchable_bottom_sheet
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/dharmik117/searchable_bottom_sheet
 
 environment:
   sdk: ^3.6.0
