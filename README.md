@@ -64,13 +64,12 @@ SearchableBottomSheet.show<FruitListModel>(
 
 ```
 
-https://github.com/user-attachments/assets/3a48a4d0-e806-4b2a-95b6-6cd49f9e3ea1
 
 
 
 ## Demo
 
-<video src='https://drive.google.com/file/d/1Dp68fhgSjdhzXkx9HvIi1H1ThVREMHGI/view' width=180/>;
+https://github.com/user-attachments/assets/3a48a4d0-e806-4b2a-95b6-6cd49f9e3ea1
 
 ## Benefits
 
