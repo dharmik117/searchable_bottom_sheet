@@ -1,5 +1,5 @@
 name: searchable_bottom_sheet
-description: "A new Flutter project."
+description: "A customizable bottom sheet for efficient searching and selection. Define a model, and seamlessly search through lists with a user-friendly interface. Ideal for any app."
 version: 0.0.1
 homepage: https://github.com/dharmik117/searchable_bottom_sheet
 
@@ -16,11 +16,10 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^5.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
+  # For information on the generic Dart part of this file, see the
+  # following page: https://dart.dev/tools/pub/pubspec
 
-# The following section is specific to Flutter packages.
-flutter:
+  # The following section is specific to Flutter packages.
 
   # To add assets to your package, add an assets section, like this:
   # assets:
