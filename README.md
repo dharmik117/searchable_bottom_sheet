@@ -66,7 +66,7 @@ SearchableBottomSheet.show<FruitListModel>(
 
 ## Demo
 
-<video src='https://github.com/dharmik117/searchable_bottom_sheet/blob/master/example/bottom_sheet_demo.mp4' width=180/>;
+<video src='https://drive.google.com/file/d/1Dp68fhgSjdhzXkx9HvIi1H1ThVREMHGI/view' width=180/>;
 
 ## Benefits
 
