@@ -11,8 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
-TODO: Platform Widgets
-A Flutter package for adaptive UI components.
 
 ## Introduction
 
@@ -67,20 +65,6 @@ SearchableBottomSheet.show<FruitListModel>(
             );
 
 ```
-
-
-
-
-
-
-## Benefits
-
-Consistent User Experience: By automatically adapting to the platform's design guidelines,
-platform_widgets helps you deliver a more cohesive and familiar user experience across devices.
-Simplified Development: No longer do you need to write separate code paths for iOS and Android. With
-platform_widgets, you can maintain a single codebase while ensuring platform-specific styling.
-Enhanced Visual Appeal: The widgets in this package are meticulously designed to match the native
-look and feel of each platform, providing a polished and professional appearance.
 
 ## Additional information
 

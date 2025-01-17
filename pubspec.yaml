@@ -1,6 +1,6 @@
 name: searchable_bottom_sheet
 description: "A customizable bottom sheet for efficient searching and selection. Define a model, and seamlessly search through lists with a user-friendly interface. Ideal for any app."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dharmik117/searchable_bottom_sheet
 
 environment:
